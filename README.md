@@ -1,7 +1,7 @@
 chrome-browser-extensions
 # Chrome Browser Extensions
 
-Based on "Chrome Browser Extensions" at chrome://extensions
+Based on "Chrome Browser Extensions" at [chrome://extensions](chrome://extensions) (open in Chrome Browser)
 
 ## 100 - Introduction
 
