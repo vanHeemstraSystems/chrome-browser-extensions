@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+chrome-browser-extensions
+# Chrome Browser Extensions
 
-Based on "ABC" at https://www.abc.com/
+Based on "Chrome Browser Extensions" at chrome://extensions
 
 ## 100 - Introduction
 
